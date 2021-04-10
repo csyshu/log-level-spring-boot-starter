@@ -1,7 +1,7 @@
-package com.br.dynamic.loglevelspringbootstarter.config;
+package com.csy.dynamic.loglevel.config;
 
-import com.br.dynamic.loglevelspringbootstarter.properties.LogConfigProperties;
-import com.br.dynamic.loglevelspringbootstarter.service.LoglevelSettingService;
+import com.csy.dynamic.loglevel.properties.LogConfigProperties;
+import com.csy.dynamic.loglevel.service.LoglevelSettingService;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;

@@ -1,6 +1,6 @@
-package com.br.dynamic.loglevelspringbootstarter.service;
+package com.csy.dynamic.loglevel.service;
 
-import com.br.dynamic.loglevelspringbootstarter.properties.LogConfigProperties;
+import com.csy.dynamic.loglevel.properties.LogConfigProperties;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.logging.LogLevel;

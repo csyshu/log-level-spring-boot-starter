@@ -1,4 +1,4 @@
-package com.br.dynamic.loglevelspringbootstarter.properties;
+package com.csy.dynamic.loglevel.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.logging.LogLevel;
